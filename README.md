@@ -1,16 +1,27 @@
-## Hi there 👋
+## Mi presentación
 
-<!--
-**garcos749-dev/garcos749-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me llamo Javier y soy un estudiante de grado medio de informàtica (SMX) a [l'Escola Pia](https://mataro.escolapia.cat/).
 
-Here are some ideas to get you started:
+Me apasiona aprender constantemente, probar con proyectos nuevos y superarme cada día. Mis principales áreas de interés son:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Ensamblaje y mantenimiento de equipos
+🌐 Redes y conectividad
+🛠️ Soporte técnico y troubleshooting
+🔐 Ciberseguridad (¡me fascina!)
+🎮 Desarrollo y diseño de videojuegos
+🧠 Automatización y scripting para simplificar tareas
+
+🎯 Metas
+
+Seguir creciendo como técnico informático
+
+Enfrentarme a proyectos reales que me reten y me hagan aprender
+
+Conectar con profesionales del mundo tecnológico
+
+Potenciar mis habilidades en programación, redes y seguridad
+
+Aportar en proyectos open source (muy pronto)
+
+🚀 En GitHub
+Iré compartiendo mis prácticas, proyectos personales, pruebas e ideas. Todo aquello que me permita evolucionar y aportar a la comunidad.
