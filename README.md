@@ -36,3 +36,10 @@ Me motiva entender cómo funcionan las cosas por dentro y convertir problemas t�
 Aquí iré publicando prácticas, proyectos personales, experimentos e ideas con los que voy evolucionando técnicamente.
 
 > Si algo me define, es la constancia: **siempre en beta, siempre aprendiendo**.
+
+---
+
+## 🔗 Enlaces a mis proyectos
+
+- [Mi perfil de GitHub](https://github.com/garcos749-dev)
+- [Mis repositorios](https://github.com/garcos749-dev?tab=repositories)
