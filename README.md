@@ -1,27 +1,38 @@
-## Mi presentación
+# 👋 Hola, soy Javier
 
-Me llamo Javier y soy un estudiante de grado medio de informàtica (SMX) a [l'Escola Pia](https://mataro.escolapia.cat/).
+Estudio **SMX (grado medio de informática)** en [l'Escola Pia](https://mataro.escolapia.cat/) y estoy construyendo mi camino como técnico IT con una mentalidad muy clara: **aprender, practicar y mejorar cada día**.
 
-Me apasiona aprender constantemente, probar con proyectos nuevos y superarme cada día. Mis principales áreas de interés son:
+---
 
-💻 Ensamblaje y mantenimiento de equipos
-🌐 Redes y conectividad
-🛠️ Soporte técnico y troubleshooting
-🔐 Ciberseguridad (¡me fascina!)
-🎮 Desarrollo y diseño de videojuegos
-🧠 Automatización y scripting para simplificar tareas
+## ✨ Sobre mí
 
-🎯 Metas
+Me motiva entender cómo funcionan las cosas por dentro y convertir problemas técnicos en soluciones reales. Disfruto especialmente de los entornos donde puedo combinar lógica, creatividad y mejora continua.
 
-Seguir creciendo como técnico informático
+---
 
-Enfrentarme a proyectos reales que me reten y me hagan aprender
+## 🧩 Áreas que más me interesan
 
-Conectar con profesionales del mundo tecnológico
+- 💻 **Ensamblaje y mantenimiento de equipos**
+- 🌐 **Redes y conectividad**
+- 🛠️ **Soporte técnico y troubleshooting**
+- 🔐 **Ciberseguridad**
+- 🎮 **Desarrollo y diseño de videojuegos**
+- 🧠 **Automatización y scripting** para optimizar tareas
 
-Potenciar mis habilidades en programación, redes y seguridad
+---
 
-Aportar en proyectos open source (muy pronto)
+## 🎯 Objetivos
 
-🚀 En GitHub
-Iré compartiendo mis prácticas, proyectos personales, pruebas e ideas. Todo aquello que me permita evolucionar y aportar a la comunidad.
+- Seguir creciendo como profesional de la informática.
+- Participar en proyectos reales que supongan nuevos retos.
+- Conectar con personas del sector tecnológico.
+- Reforzar mis habilidades en programación, redes y seguridad.
+- Empezar a aportar de forma activa en proyectos **open source**.
+
+---
+
+## 🚀 Qué encontrarás en este GitHub
+
+Aquí iré publicando prácticas, proyectos personales, experimentos e ideas con los que voy evolucionando técnicamente.
+
+> Si algo me define, es la constancia: **siempre en beta, siempre aprendiendo**.
