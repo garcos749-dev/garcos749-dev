@@ -6,8 +6,7 @@
 **Cicle:** CFGM Sistemes Microinformatics i Xarxes  
 **Objectiu de la defensa:** demostrar que conec els meus repositoris, que entenc els projectes treballats durant el curs i que puc justificar les decisions tecniques, organitzatives i de documentacio.
 
-**Perfil GitHub:** [garcos749-dev](https://github.com/garcos749-dev)  
-**Organitzacio GitHub Classroom:** [classesSMX2n](https://github.com/classesSMX2n)
+**Perfil GitHub:** [garcos749-dev](https://github.com/garcos749-dev)
 
 ---
 
@@ -29,7 +28,7 @@
 | Temps | Que explico | Que mostro |
 |---|---|---|
 | 0-3 min | Qui soc i com tinc organitzat GitHub | Perfil personal, README del perfil i llista de repositoris |
-| 3-6 min | Visio general dels projectes del curs | Carpetes locals i repos principals |
+| 3-6 min | Visio general dels projectes del curs | Repositoris principals |
 | 6-14 min | Dos projectes seleccionats pel tribunal | README, tasques, productes, informes i evidencies |
 | 14-18 min | Metodologia de treball | Kanban, Gantt, commits, issues, README o planificacio |
 | 18-20 min | Conclusions | Aprenentatges, dificultats i millores futures |
@@ -38,42 +37,38 @@
 
 ## 3. Repositoris i projectes del curs
 
-> Nota per a la defensa: al perfil de GitHub he de mostrar que tinc els repositoris del curs. En local, en aquesta carpeta, tinc documentacio dels projectes 02 al 08. Els projectes 06, 07 i 08 conserven remote GitHub configurat.
-
-| Projecte | Nom | Repositori local | Enllac GitHub / referencia |
+| Projecte | Nom | Repositori | Enllac GitHub / referencia |
 |---|---|---|---|
-| Projecte 01 | Arranquem | No detectat en aquesta carpeta local | Mostrar des del perfil GitHub si hi es |
-| Projecte 02 | Consultoria EverPia | [Projecte2-main/Projecte2-main](Projecte2-main/Projecte2-main) | Carpeta local descarregada |
-| Projecte 03 | Consultoria EverPia 2 | [Projecte3-main](Projecte3-main) | Carpeta local descarregada |
-| Projecte 04 | Consultoria EverPia 3 | [Projecte4-main](Projecte4-main) | Carpeta local descarregada |
-| Projecte 05 | La incubadora | [projecte5-garcos749-dev-main](projecte5-garcos749-dev-main) | Carpeta local descarregada |
-| Projecte 06 | Nexus | [projecte6-garcos749-dev](projecte6-garcos749-dev) | [GitHub](https://github.com/classesSMX2n/projecte6-garcos749-dev) |
-| Projecte 07 | FoodLogistic S.A. | [projecte-7-garcos749-dev](projecte-7-garcos749-dev) | [GitHub](https://github.com/classesSMX2n/projecte-7-garcos749-dev) |
-| Projecte 08 | Connecta't al Futur | [projecte-8-garcos749-dev](projecte-8-garcos749-dev) | [GitHub](https://github.com/classesSMX2n/projecte-8-garcos749-dev) |
+| Projecte 01 | Arranquem | No detectat | [Perfil GitHub](https://github.com/garcos749-dev?tab=repositories) |
+| Projecte 02 | Consultoria EverPia | [Projecte2](https://github.com/garcos749-dev/Projecte2) | [GitHub](https://github.com/garcos749-dev/Projecte2) |
+| Projecte 03 | Consultoria EverPia 2 | [Projecte3](https://github.com/garcos749-dev/Projecte3) | [GitHub](https://github.com/garcos749-dev/Projecte3) |
+| Projecte 04 | Consultoria EverPia 3 | [Projecte4](https://github.com/garcos749-dev/Projecte4) | [GitHub](https://github.com/garcos749-dev/Projecte4) |
+| Projecte 05 | La incubadora | [projecte5-garcos749-dev](https://github.com/garcos749-dev/projecte5-garcos749-dev) | [GitHub](https://github.com/garcos749-dev/projecte5-garcos749-dev) |
+| Projecte 06 | Nexus | [projecte6-garcos749-dev](https://github.com/garcos749-dev/projecte6-garcos749-dev) | [GitHub](https://github.com/garcos749-dev/projecte6-garcos749-dev) |
+| Projecte 07 | FoodLogistic S.A. | [projecte-7-garcos749-dev](https://github.com/garcos749-dev/projecte-7-garcos749-dev) | [GitHub](https://github.com/garcos749-dev/projecte-7-garcos749-dev) |
+| Projecte 08 | Connecta't al Futur | [projecte-8-garcos749-dev](https://github.com/garcos749-dev/projecte-8-garcos749-dev) | [GitHub](https://github.com/garcos749-dev/projecte-8-garcos749-dev) |
 
 ---
 
 ## 3.1 Captures i evidencies visuals importants
 
-Durant la defensa, si em demanen evidencies visuals, puc navegar directament a aquestes carpetes o fitxers:
-
 | Evidencia | Ruta |
 |---|---|
-| Captura del SAI del Projecte 02 | [Projecte2-main/Projecte2-main/Tasca02/img](Projecte2-main/Projecte2-main/Tasca02/img) |
-| Evidencies de Bitwarden i seguretat del Projecte 03 | [Projecte3-main/T01/img](Projecte3-main/T01/img) |
-| Evidencies LDAP del Projecte 03 | [Projecte3-main/T04/img](Projecte3-main/T04/img) |
-| Evidencies DNS del Projecte 03 | [Projecte3-main/T07/img](Projecte3-main/T07/img) |
-| Evidencies SSH del Projecte 04 | [Projecte4-main/T05/img](Projecte4-main/T05/img) |
-| Evidencies acces remot del Projecte 04 | [Projecte4-main/T07/img](Projecte4-main/T07/img) |
-| Evidencies NFS del Projecte 04 | [Projecte4-main/T09/img](Projecte4-main/T09/img) |
-| Evidencies de domini del Projecte 05 | [projecte5-garcos749-dev-main/T06/img](projecte5-garcos749-dev-main/T06/img) |
-| Evidencies Apache/Nginx del Projecte 06 | [projecte6-garcos749-dev/t02/img](projecte6-garcos749-dev/t02/img) i [projecte6-garcos749-dev/t03/img](projecte6-garcos749-dev/t03/img) |
-| Evidencies PKI del Projecte 06 | [projecte6-garcos749-dev/t06/img](projecte6-garcos749-dev/t06/img) |
-| Evidencies auditoria del Projecte 06 | [projecte6-garcos749-dev/t08/img](projecte6-garcos749-dev/t08/img) |
-| Logo FoodLogistic | [projecte-7-garcos749-dev/pics/FoodLogisticLogo.png](projecte-7-garcos749-dev/pics/FoodLogisticLogo.png) |
-| Gantt FoodLogistic | [projecte-7-garcos749-dev/t09/gantt.png](projecte-7-garcos749-dev/t09/gantt.png) |
-| Gantt Producte01 FoodLogistic | [projecte-7-garcos749-dev/Producte01/Planificacio/gantt.png](projecte-7-garcos749-dev/Producte01/Planificacio/gantt.png) |
-| Plantejament visual Projecte 08 | [projecte-8-garcos749-dev/Tasca1/img](projecte-8-garcos749-dev/Tasca1/img) |
+| Captura del SAI del Projecte 02 | [Tasca02 img](https://github.com/garcos749-dev/Projecte2/tree/main/Tasca02/img) |
+| Evidencies de Bitwarden i seguretat del Projecte 03 | [T01 img](https://github.com/garcos749-dev/Projecte3/tree/main/T01/img) |
+| Evidencies LDAP del Projecte 03 | [T04 img](https://github.com/garcos749-dev/Projecte3/tree/main/T04/img) |
+| Evidencies DNS del Projecte 03 | [T07 img](https://github.com/garcos749-dev/Projecte3/tree/main/T07/img) |
+| Evidencies SSH del Projecte 04 | [T05 img](https://github.com/garcos749-dev/Projecte4/tree/main/T05/img) |
+| Evidencies acces remot del Projecte 04 | [T07 img](https://github.com/garcos749-dev/Projecte4/tree/main/T07/img) |
+| Evidencies NFS del Projecte 04 | [T09 img](https://github.com/garcos749-dev/Projecte4/tree/main/T09/img) |
+| Evidencies de domini del Projecte 05 | [T06 img](https://github.com/garcos749-dev/projecte5-garcos749-dev/tree/main/T06/img) |
+| Evidencies Apache/Nginx del Projecte 06 | [t02 img](https://github.com/garcos749-dev/projecte6-garcos749-dev/tree/main/t02/img) i [t03 img](https://github.com/garcos749-dev/projecte6-garcos749-dev/tree/main/t03/img) |
+| Evidencies PKI del Projecte 06 | [t06 img](https://github.com/garcos749-dev/projecte6-garcos749-dev/tree/main/t06/img) |
+| Evidencies auditoria del Projecte 06 | [t08 img](https://github.com/garcos749-dev/projecte6-garcos749-dev/tree/main/t08/img) |
+| Logo FoodLogistic | [FoodLogisticLogo.png](https://github.com/garcos749-dev/projecte-7-garcos749-dev/blob/main/pics/FoodLogisticLogo.png) |
+| Gantt FoodLogistic | [gantt.png](https://github.com/garcos749-dev/projecte-7-garcos749-dev/blob/main/t09/gantt.png) |
+| Gantt Producte01 FoodLogistic | [gantt.png](https://github.com/garcos749-dev/projecte-7-garcos749-dev/blob/main/Producte01/Planificacio/gantt.png) |
+| Plantejament visual Projecte 08 | [Tasca1 img](https://github.com/garcos749-dev/projecte-8-garcos749-dev/tree/main/Tasca1/img) |
 
 ---
 
@@ -131,18 +126,18 @@ Projecte/
 
 ### Projecte 02 - Consultoria EverPia
 
-**Ruta:** [Projecte2-main/Projecte2-main](Projecte2-main/Projecte2-main)  
-**README:** [Projecte2-main/Projecte2-main/README.md](Projecte2-main/Projecte2-main/README.md)
+**Ruta:** [Projecte2](https://github.com/garcos749-dev/Projecte2)  
+**README:** [README.md](https://github.com/garcos749-dev/Projecte2/blob/main/README.md)
 
 **Objectiu:** simular una consultoria IT, treballant com a consultors junior en serveis, seguretat, hosting i documentacio tecnica.
 
 **Evidencies destacades:**
 
-- [Tasca02 - Estudi i tria d'un SAI](Projecte2-main/Projecte2-main/Tasca02/readme.md)
-- [Tasca02 - Solucio SAI](Projecte2-main/Projecte2-main/Tasca02/soluci%C3%B3.md)
-- [Tasca03 - Seguretat logica i recuperacio d'acces](Projecte2-main/Projecte2-main/Tasca03/readme.md)
-- [Tasca08 - Proposta de dominis i hosting](Projecte2-main/Projecte2-main/tasca08/readme.md)
-- [Tasca08 - Solucio hosting](Projecte2-main/Projecte2-main/tasca08/solucio.md)
+- [Tasca02 - Estudi i tria d'un SAI](https://github.com/garcos749-dev/Projecte2/blob/main/Tasca02/readme.md)
+- [Tasca02 - Solucio SAI](https://github.com/garcos749-dev/Projecte2/blob/main/Tasca02/soluci%C3%B3.md)
+- [Tasca03 - Seguretat logica i recuperacio d'acces](https://github.com/garcos749-dev/Projecte2/blob/main/Tasca03/readme.md)
+- [Tasca08 - Proposta de dominis i hosting](https://github.com/garcos749-dev/Projecte2/blob/main/Tasca08/readme.md)
+- [Tasca08 - Solucio hosting](https://github.com/garcos749-dev/Projecte2/blob/main/Tasca08/solucio.md)
 
 **Decisions tecniques a explicar:**
 
@@ -159,21 +154,21 @@ Projecte/
 
 ### Projecte 03 - Consultoria EverPia 2
 
-**Ruta:** [Projecte3-main](Projecte3-main)  
-**README:** [Projecte3-main/README.md](Projecte3-main/README.md)
+**Ruta:** [Projecte3](https://github.com/garcos749-dev/Projecte3)  
+**README:** [README.md](https://github.com/garcos749-dev/Projecte3/blob/main/README.md)
 
 **Objectiu:** continuar EverPia amb serveis reals d'empresa: contrasenyes, emmagatzematge, LDAP, DNS, web corporativa, sostenibilitat i documentacio.
 
 **Evidencies destacades:**
 
-- [P01 - Kanban del projecte](Projecte3-main/P01/readme.md)
-- [T01 - Gestor de contrasenyes](Projecte3-main/T01/readme.md)
-- [T01 - Informe tecnic](Projecte3-main/T01/T01%20%E2%80%93%20Informe.md)
-- [T03 - LVM i Storage Spaces](Projecte3-main/T03/readme.md)
-- [T04 - LDAP](Projecte3-main/T04/readme.md)
-- [T07 - Servidor DNS](Projecte3-main/T07/readme.md)
-- [P04 - Documentacio servidor DNS](Projecte3-main/P04/readme.md)
-- [P07 - ASG i sostenibilitat](Projecte3-main/P07/readme.md)
+- [P01 - Kanban del projecte](https://github.com/garcos749-dev/Projecte3/blob/main/P01/readme.md)
+- [T01 - Gestor de contrasenyes](https://github.com/garcos749-dev/Projecte3/blob/main/T01/readme.md)
+- [T01 - Informe tecnic](https://github.com/garcos749-dev/Projecte3/blob/main/T01/T01%20%E2%80%93%20Informe.md)
+- [T03 - LVM i Storage Spaces](https://github.com/garcos749-dev/Projecte3/blob/main/T03/readme.md)
+- [T04 - LDAP](https://github.com/garcos749-dev/Projecte3/blob/main/T04/readme.md)
+- [T07 - Servidor DNS](https://github.com/garcos749-dev/Projecte3/blob/main/T07/readme.md)
+- [P04 - Documentacio servidor DNS](https://github.com/garcos749-dev/Projecte3/blob/main/P04/readme.md)
+- [P07 - ASG i sostenibilitat](https://github.com/garcos749-dev/Projecte3/blob/main/P07/readme.md)
 
 **Decisions tecniques a explicar:**
 
@@ -190,22 +185,22 @@ Projecte/
 
 ### Projecte 04 - Consultoria EverPia 3
 
-**Ruta:** [Projecte4-main](Projecte4-main)  
-**README:** [Projecte4-main/README.md](Projecte4-main/README.md)
+**Ruta:** [Projecte4](https://github.com/garcos749-dev/Projecte4)  
+**README:** [README.md](https://github.com/garcos749-dev/Projecte4/blob/main/README.md)
 
 **Objectiu:** preparar EverPia per a un salt tecnologic: backups, recuperacio, acces remot, NFS, CUPS, Figma, Git i sostenibilitat.
 
 **Evidencies destacades:**
 
-- [T01 - DRP i copies de seguretat](Projecte4-main/T01/readme.md)
-- [T01 Part 3 - Proposta final 3-2-1](Projecte4-main/T01/Part3/readme.md)
-- [T03 - Rescuezilla i pla de recuperacio](Projecte4-main/T03/readme.md)
-- [T05 - SSH](Projecte4-main/T05/readme.md)
-- [T05 - Guia SSH](Projecte4-main/T05/guia/readme.md)
-- [T07 - Assistencia remota](Projecte4-main/T07/readme.md)
-- [T09 - NFS](Projecte4-main/T09/readme.md)
-- [T10 - CUPS](Projecte4-main/T10/readme.md)
-- [T16 - Pla d'empresa TECH](Projecte4-main/T16/readme.md)
+- [T01 - DRP i copies de seguretat](https://github.com/garcos749-dev/Projecte4/blob/main/T01/readme.md)
+- [T01 Part 3 - Proposta final 3-2-1](https://github.com/garcos749-dev/Projecte4/blob/main/T01/Part3/readme.md)
+- [T03 - Rescuezilla i pla de recuperacio](https://github.com/garcos749-dev/Projecte4/blob/main/T03/readme.md)
+- [T05 - SSH](https://github.com/garcos749-dev/Projecte4/blob/main/T05/readme.md)
+- [T05 - Guia SSH](https://github.com/garcos749-dev/Projecte4/blob/main/T05/guia/readme.md)
+- [T07 - Assistencia remota](https://github.com/garcos749-dev/Projecte4/blob/main/T07/readme.md)
+- [T09 - NFS](https://github.com/garcos749-dev/Projecte4/blob/main/T09/readme.md)
+- [T10 - CUPS](https://github.com/garcos749-dev/Projecte4/blob/main/T10/readme.md)
+- [T16 - Pla d'empresa TECH](https://github.com/garcos749-dev/Projecte4/blob/main/T16/readme.md)
 
 **Decisions tecniques a explicar:**
 
@@ -223,21 +218,21 @@ Projecte/
 
 ### Projecte 05 - La incubadora
 
-**Ruta:** [projecte5-garcos749-dev-main](projecte5-garcos749-dev-main)  
-**README:** [projecte5-garcos749-dev-main/README.md](projecte5-garcos749-dev-main/README.md)
+**Ruta:** [projecte5-garcos749-dev](https://github.com/garcos749-dev/projecte5-garcos749-dev)  
+**README:** [README.md](https://github.com/garcos749-dev/projecte5-garcos749-dev/blob/main/README.md)
 
 **Objectiu:** crear i defensar una empresa tecnologica, treballant identitat corporativa, infraestructura, domini, serveis, Moodle, seguretat, Green IT i viabilitat.
 
 **Evidencies destacades:**
 
-- [T01 - Objectiu inicial i empresa](projecte5-garcos749-dev-main/T01/readme.md)
-- [T01 - Enllacos presentacio](projecte5-garcos749-dev-main/T01/enlacespresentaci%C3%B3.md)
-- [P03 - Presentacio empresa amb visio Green IT](projecte5-garcos749-dev-main/P03/readme.md)
-- [T03 - Serveis de transferencia de fitxers](projecte5-garcos749-dev-main/T03/readme.md)
-- [T05 - Instalacio del domini](projecte5-garcos749-dev-main/T05/README.md)
-- [T06 - Configuracio del domini](projecte5-garcos749-dev-main/T06/solucion.md)
-- [T07 - Academia feta amb Moodle](projecte5-garcos749-dev-main/T07/readme.md)
-- [T10 - Green IT](projecte5-garcos749-dev-main/T10/readme.md)
+- [T01 - Objectiu inicial i empresa](https://github.com/garcos749-dev/projecte5-garcos749-dev/blob/main/T01/readme.md)
+- [T01 - Enllacos presentacio](https://github.com/garcos749-dev/projecte5-garcos749-dev/blob/main/T01/enlacespresentaci%C3%B3.md)
+- [P03 - Presentacio empresa amb visio Green IT](https://github.com/garcos749-dev/projecte5-garcos749-dev/blob/main/P03/readme.md)
+- [T03 - Serveis de transferencia de fitxers](https://github.com/garcos749-dev/projecte5-garcos749-dev/blob/main/T03/readme.md)
+- [T05 - Instalacio del domini](https://github.com/garcos749-dev/projecte5-garcos749-dev/blob/main/T05/README.md)
+- [T06 - Configuracio del domini](https://github.com/garcos749-dev/projecte5-garcos749-dev/blob/main/T06/solucion.md)
+- [T07 - Academia feta amb Moodle](https://github.com/garcos749-dev/projecte5-garcos749-dev/blob/main/T07/readme.md)
+- [T10 - Green IT](https://github.com/garcos749-dev/projecte5-garcos749-dev/blob/main/T10/readme.md)
 
 **Decisions tecniques a explicar:**
 
@@ -255,22 +250,22 @@ Projecte/
 
 ### Projecte 06 - Nexus
 
-**Ruta:** [projecte6-garcos749-dev](projecte6-garcos749-dev)  
-**README:** [projecte6-garcos749-dev/README.md](projecte6-garcos749-dev/README.md)  
-**GitHub:** [classesSMX2n/projecte6-garcos749-dev](https://github.com/classesSMX2n/projecte6-garcos749-dev)
+**Ruta:** [projecte6-garcos749-dev](https://github.com/garcos749-dev/projecte6-garcos749-dev)  
+**README:** [README.md](https://github.com/garcos749-dev/projecte6-garcos749-dev/blob/main/README.md)  
+**GitHub:** [garcos749-dev/projecte6-garcos749-dev](https://github.com/garcos749-dev/projecte6-garcos749-dev)
 
 **Objectiu:** desplegar una infraestructura segura i sostenible per a una plataforma d'e-learning.
 
 **Evidencies destacades:**
 
-- [T02 - Apache multidomini i segur](projecte6-garcos749-dev/t02/readme.md)
-- [T02 - Guia Apache](projecte6-garcos749-dev/t02/guia.md)
-- [T03 - Nginx](projecte6-garcos749-dev/t03/readme.md)
-- [T05 - Xifratge i hashing](projecte6-garcos749-dev/t05/readme.md)
-- [T06 - PKI i signatura digital](projecte6-garcos749-dev/t06/readme.md)
-- [T07 - Administracio avancada i GPO](projecte6-garcos749-dev/t07/readme.md)
-- [T08 - Auditoria de sistemes](projecte6-garcos749-dev/t08/readme.md)
-- [Green IT aplicat a l'empresa](projecte6-garcos749-dev/Green%20IT%20aplicat%20a%20la%20vostra%20empresa/readme.md)
+- [T02 - Apache multidomini i segur](https://github.com/garcos749-dev/projecte6-garcos749-dev/blob/main/t02/readme.md)
+- [T02 - Guia Apache](https://github.com/garcos749-dev/projecte6-garcos749-dev/blob/main/t02/guia.md)
+- [T03 - Nginx](https://github.com/garcos749-dev/projecte6-garcos749-dev/blob/main/t03/readme.md)
+- [T05 - Xifratge i hashing](https://github.com/garcos749-dev/projecte6-garcos749-dev/blob/main/t05/readme.md)
+- [T06 - PKI i signatura digital](https://github.com/garcos749-dev/projecte6-garcos749-dev/blob/main/t06/readme.md)
+- [T07 - Administracio avancada i GPO](https://github.com/garcos749-dev/projecte6-garcos749-dev/blob/main/t07/readme.md)
+- [T08 - Auditoria de sistemes](https://github.com/garcos749-dev/projecte6-garcos749-dev/blob/main/t08/readme.md)
+- [Green IT aplicat a l'empresa](https://github.com/garcos749-dev/projecte6-garcos749-dev/blob/main/Green%20IT%20aplicat%20a%20la%20vostra%20empresa/readme.md)
 
 **Decisions tecniques a explicar:**
 
@@ -288,25 +283,25 @@ Projecte/
 
 ### Projecte 07 - FoodLogistic S.A.
 
-**Ruta:** [projecte-7-garcos749-dev](projecte-7-garcos749-dev)  
-**README:** [projecte-7-garcos749-dev/README.md](projecte-7-garcos749-dev/README.md)  
-**GitHub:** [classesSMX2n/projecte-7-garcos749-dev](https://github.com/classesSMX2n/projecte-7-garcos749-dev)
+**Ruta:** [projecte-7-garcos749-dev](https://github.com/garcos749-dev/projecte-7-garcos749-dev)  
+**README:** [README.md](https://github.com/garcos749-dev/projecte-7-garcos749-dev/blob/main/README.md)  
+**GitHub:** [garcos749-dev/projecte-7-garcos749-dev](https://github.com/garcos749-dev/projecte-7-garcos749-dev)
 
-**Objectiu:** modernitzar la infraestructura d'una empresa de logistica alimentaria, millorant seguretat, continuïtat, web, legalitat, cloud i planificacio economica.
+**Objectiu:** modernitzar la infraestructura d'una empresa de logistica alimentaria, millorant seguretat, continuitat, web, legalitat, cloud i planificacio economica.
 
 **Evidencies destacades:**
 
-- [T01 - Competencia i sector](projecte-7-garcos749-dev/t01/readme.md)
-- [T03 - Servidor de fitxers](projecte-7-garcos749-dev/t03/readme.md)
-- [T04 - Servidor d'impressio](projecte-7-garcos749-dev/t04/readme.md)
-- [T05 - Videos formatius LOPD](projecte-7-garcos749-dev/t05/readme.md)
-- [T06 - Legalitzacio de la web](projecte-7-garcos749-dev/t06/readme.md)
-- [T07 - Migracio al cloud](projecte-7-garcos749-dev/t07/readme.md)
-- [T09 - Gantt i planificacio](projecte-7-garcos749-dev/t09/README.MD)
-- [T09 - Guia de planificacio](projecte-7-garcos749-dev/t09/guia.md)
-- [T10 - Pressupost](projecte-7-garcos749-dev/t10/pressupost.md)
-- [Producte01 - Memoria tecnica](projecte-7-garcos749-dev/Producte01/README.md)
-- [Planificacio del Producte01](projecte-7-garcos749-dev/Producte01/Planificacio/README.md)
+- [T01 - Competencia i sector](https://github.com/garcos749-dev/projecte-7-garcos749-dev/blob/main/t01/readme.md)
+- [T03 - Servidor de fitxers](https://github.com/garcos749-dev/projecte-7-garcos749-dev/blob/main/t03/readme.md)
+- [T04 - Servidor d'impressio](https://github.com/garcos749-dev/projecte-7-garcos749-dev/blob/main/t04/readme.md)
+- [T05 - Videos formatius LOPD](https://github.com/garcos749-dev/projecte-7-garcos749-dev/blob/main/t05/readme.md)
+- [T06 - Legalitzacio de la web](https://github.com/garcos749-dev/projecte-7-garcos749-dev/blob/main/t06/readme.md)
+- [T07 - Migracio al cloud](https://github.com/garcos749-dev/projecte-7-garcos749-dev/blob/main/t07/readme.md)
+- [T09 - Gantt i planificacio](https://github.com/garcos749-dev/projecte-7-garcos749-dev/blob/main/t09/README.MD)
+- [T09 - Guia de planificacio](https://github.com/garcos749-dev/projecte-7-garcos749-dev/blob/main/t09/guia.md)
+- [T10 - Pressupost](https://github.com/garcos749-dev/projecte-7-garcos749-dev/blob/main/t10/pressupost.md)
+- [Producte01 - Memoria tecnica](https://github.com/garcos749-dev/projecte-7-garcos749-dev/blob/main/Producte01/README.md)
+- [Planificacio del Producte01](https://github.com/garcos749-dev/projecte-7-garcos749-dev/blob/main/Producte01/Planificacio/README.md)
 
 **Decisions tecniques a explicar:**
 
@@ -325,17 +320,17 @@ Projecte/
 
 ### Projecte 08 - Connecta't al Futur
 
-**Ruta:** [projecte-8-garcos749-dev](projecte-8-garcos749-dev)  
-**README:** [projecte-8-garcos749-dev/README.md](projecte-8-garcos749-dev/README.md)  
-**GitHub:** [classesSMX2n/projecte-8-garcos749-dev](https://github.com/classesSMX2n/projecte-8-garcos749-dev)
+**Ruta:** [projecte-8-garcos749-dev](https://github.com/garcos749-dev/projecte-8-garcos749-dev)  
+**README:** [README.md](https://github.com/garcos749-dev/projecte-8-garcos749-dev/blob/main/README.md)  
+**GitHub:** [garcos749-dev/projecte-8-garcos749-dev](https://github.com/garcos749-dev/projecte-8-garcos749-dev)
 
 **Objectiu:** actuar com a consultors tecnologics per digitalitzar una PIME o entitat real de manera eficient, sostenible i viable.
 
 **Evidencies destacades:**
 
-- [Tasca1 - Aula Digital ONG Horitzons Digitals](projecte-8-garcos749-dev/Tasca1/readme.md)
-- [Tasca1 - Dossier tecnic](projecte-8-garcos749-dev/Tasca1/dossier%20(2).md)
-- [Tasca2 - Pla de sostenibilitat integral](projecte-8-garcos749-dev/Tasca2/Readme.md)
+- [Tasca1 - Aula Digital ONG Horitzons Digitals](https://github.com/garcos749-dev/projecte-8-garcos749-dev/blob/main/Tasca1/readme.md)
+- [Tasca1 - Dossier tecnic](https://github.com/garcos749-dev/projecte-8-garcos749-dev/blob/main/Tasca1/dossier%20(2).md)
+- [Tasca2 - Pla de sostenibilitat integral](https://github.com/garcos749-dev/projecte-8-garcos749-dev/blob/main/Tasca2/Readme.md)
 
 **Decisions tecniques a explicar:**
 
@@ -368,11 +363,11 @@ Projecte/
 | Fase | Que faig | Exemple real |
 |---|---|---|
 | Analisi | Entenc el problema i necessitats | FoodLogistic: necessitats de comunicacio, dades i seguretat |
-| Planificacio | Divideixo tasques, temps i dependencies | [Gantt FoodLogistic](projecte-7-garcos749-dev/t09/guia.md) |
+| Planificacio | Divideixo tasques, temps i dependencies | [Gantt FoodLogistic](https://github.com/garcos749-dev/projecte-7-garcos749-dev/blob/main/t09/guia.md) |
 | Desenvolupament | Configuro serveis o redacto solucions | NFS, CUPS, SSH, Apache, PKI |
 | Proves | Verifico que funciona | DNS, LDAP, backups, certificats |
 | Documentacio | Creo README, guies i informes | Guies `readme.md`, `guia.md`, `solucio.md` |
-| Entrega | Presento producte final i conclusions | [Producte01 FoodLogistic](projecte-7-garcos749-dev/Producte01/README.md) |
+| Entrega | Presento producte final i conclusions | [Producte01 FoodLogistic](https://github.com/garcos749-dev/projecte-7-garcos749-dev/blob/main/Producte01/README.md) |
 
 ### Kanban
 
@@ -381,11 +376,11 @@ Un Kanban m'ajuda a veure l'estat de cada tasca:
 | Estat | Significat |
 |---|---|
 | Pendent | Tasca identificada pero no començada |
-| En curs | Tasca que s'està desenvolupant |
+| En curs | Tasca que s'esta desenvolupant |
 | En revisio | Tasca feta pero pendent de comprovar o documentar |
 | Finalitzat | Tasca provada i documentada |
 
-**Evidencia per mostrar:** [Projecte3-main/P01/readme.md](Projecte3-main/P01/readme.md)
+**Evidencia per mostrar:** [Projecte3 - P01 Kanban](https://github.com/garcos749-dev/Projecte3/blob/main/P01/readme.md)
 
 ### Diagrama de Gantt
 
@@ -394,11 +389,11 @@ El Gantt serveix per veure:
 - Durada de cada tasca.
 - Dependencies.
 - Terminis.
-- Camí crític.
+- Cami critic.
 - Possibles colls d'ampolla.
 
-**Evidencia per mostrar:** [projecte-7-garcos749-dev/t09/guia.md](projecte-7-garcos749-dev/t09/guia.md)  
-**Evidencia alternativa:** [projecte-7-garcos749-dev/Producte01/Planificacio/README.md](projecte-7-garcos749-dev/Producte01/Planificacio/README.md)
+**Evidencia per mostrar:** [projecte-7-garcos749-dev/t09/guia.md](https://github.com/garcos749-dev/projecte-7-garcos749-dev/blob/main/t09/guia.md)  
+**Evidencia alternativa:** [projecte-7-garcos749-dev/Producte01/Planificacio/README.md](https://github.com/garcos749-dev/projecte-7-garcos749-dev/blob/main/Producte01/Planificacio/README.md)
 
 ### GitHub
 
@@ -444,8 +439,8 @@ La solucio va ser donar mes pes a la planificacio, identificar dependencies i de
 
 1. Problema inicial: empresa creix i necessita modernitzar infraestructura.
 2. Solucio: fitxers, impressio, legalitat web, cloud i pressupost.
-3. Evidencia forta: [Producte01](projecte-7-garcos749-dev/Producte01/README.md)
-4. Metodologia: [Gantt](projecte-7-garcos749-dev/t09/guia.md)
+3. Evidencia forta: [Producte01](https://github.com/garcos749-dev/projecte-7-garcos749-dev/blob/main/Producte01/README.md)
+4. Metodologia: [Gantt](https://github.com/garcos749-dev/projecte-7-garcos749-dev/blob/main/t09/guia.md)
 5. Riscos: coll d'ampolla, tasques critiques i contingencia.
 
 ### Opcio C - Projecte 08
