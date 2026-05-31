@@ -172,45 +172,7 @@
 
 ---
 
-## 11. Preguntes que he de poder respondre durant la defensa
-
-### Sobre GitHub
-
-| Pregunta | Que he de respondre |
-|---|---|
-| Que mostra el meu perfil de GitHub? | Que es el meu portafolis tecnic i que conte els projectes del curs. |
-| Com esta organitzat el meu GitHub? | Per repositoris de projecte, amb README, tasques, productes, guies i evidencies. |
-| Tinc tots els repositoris principals del curs? | He de mostrar l'index de projectes i entrar als repos principals. |
-| Com estan organitzades les carpetes? | Per tasques o productes: `T01`, `T02`, `P01`, `Producte01`, `img`, `pics`, etc. |
-| Que aporta GitHub al meu treball? | Ordre, documentacio, historial, acces rapid i evidencies del proces. |
-
-### Sobre cada projecte
-
-| Pregunta | Que he de respondre |
-|---|---|
-| Quin era el repte o problema inicial? | Explicar el context del projecte i la necessitat del client o de l'activitat. |
-| Quina solucio es va proposar? | Explicar la solucio tecnica o organitzativa aplicada. |
-| Quins passos es van seguir? | Explicar el proces: analisi, planificacio, desenvolupament, proves i documentacio. |
-| Quins informes o evidencies es van generar? | Mostrar README, guies, solucions, captures, Gantt, pressupostos o productes finals. |
-| Quines decisions tecniques es van prendre? | Justificar eines, serveis, configuracions, seguretat, costos o sostenibilitat. |
-| Quines dificultats van apareixer? | Explicar problemes tecnics, errors de configuracio o canvis de planificacio. |
-| Com es van resoldre els problemes? | Explicar proves, correccions, documentacio i validacio final. |
-| Quins aprenentatges es poden extreure? | Relacionar el projecte amb el que he apres durant el curs. |
-
-### Sobre metodologia de treball
-
-| Pregunta | Que he de respondre |
-|---|---|
-| Com es divideix un projecte en tasques? | Separant analisi, planificacio, desenvolupament, proves, documentacio i entrega. |
-| Que es un Kanban? | Una eina per veure tasques pendents, en curs, en revisio i finalitzades. |
-| Que es un diagrama de Gantt? | Una eina per veure durades, dependencies, terminis i cami critic. |
-| Com ajuda GitHub al seguiment? | Amb repositoris, commits, README, issues, branques i evidencies. |
-| Que faig si una tasca tarda mes del previst? | Reviso dependencies, prioritzo tasques critiques, documento la desviacio i ajusto la planificacio. |
-| Quina evidencia puc mostrar de planificacio? | [P01 Kanban Projecte3](https://github.com/garcos749-dev/Projecte3/blob/main/P01/readme.md), [Gantt FoodLogistic](https://github.com/garcos749-dev/projecte-7-garcos749-dev/blob/main/t09/guia.md) o [Planificacio Producte01](https://github.com/garcos749-dev/projecte-7-garcos749-dev/blob/main/Producte01/Planificacio/README.md). |
-
----
-
-## 12. Conclusions i aprenentatges
+## 11. Conclusions i aprenentatges
 
 Durant el curs he treballat projectes diferents, pero tots tenen una idea comuna: entendre un problema real, proposar una solucio tecnica, documentar-la i defensar-la.
 
