@@ -56,10 +56,11 @@
 | Tasca | Enllac |
 |---|---|
 | Tasca02 - Estudi i tria d'un SAI | [readme.md](https://github.com/garcos749-dev/Projecte2/blob/main/Tasca02/readme.md) |
-| Tasca02 - Solucio SAI | [solucio.md](https://github.com/garcos749-dev/Projecte2/blob/main/Tasca02/soluci%C3%B3.md) |
+| Tasca02 - Solucio SAI | [solució.md](https://github.com/garcos749-dev/Projecte2/blob/main/Tasca02/soluci%C3%B3.md) |
 | Tasca03 - Seguretat logica i recuperacio d'acces | [readme.md](https://github.com/garcos749-dev/Projecte2/blob/main/Tasca03/readme.md) |
-| Tasca08 - Proposta de dominis i hosting | [readme.md](https://github.com/garcos749-dev/Projecte2/blob/main/Tasca08/readme.md) |
-| Tasca08 - Solucio hosting | [solucio.md](https://github.com/garcos749-dev/Projecte2/blob/main/Tasca08/solucio.md) |
+| Tasca03 - Solucio seguretat logica | [solució.md](https://github.com/garcos749-dev/Projecte2/blob/main/Tasca03/soluci%C3%B3.md) |
+| Tasca08 - Proposta de dominis i hosting | [readme.md](https://github.com/garcos749-dev/Projecte2/blob/main/tasca08/readme.md) |
+| Tasca08 - Solucio hosting | [solucio.md](https://github.com/garcos749-dev/Projecte2/blob/main/tasca08/solucio.md) |
 
 ---
 
